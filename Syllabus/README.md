@@ -1,5 +1,5 @@
 # DSCI-633: Foundations of Data Science & Analytics
-Course taught in Fall'21.
+Course taught in Fall'22.
 
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 ## Course Material
