@@ -23,7 +23,7 @@ At the end of this course, students should be able to accomplish the following l
  2. Develop critical, entry-level skill sets required to solve real-world problems that utilize machine learning.
 
 ## Prerequisites
-Knowledge of **Python** and **Github** is required.  An excellent primer for python can be found [here](https://github.com/Akuli/python-tutorial). And a quick and dirty intro to Github can be found [here.](https://guides.github.com/activities/hello-world/). I have not used it, but this comes highly recommended - [python programming] (https://developers.google.com/edu/python/Together), they should help you get up to speed with what is needed for this course.
+Knowledge of **Python** and **Github** is required.  An excellent primer for python can be found [here](https://github.com/Akuli/python-tutorial). And a quick and dirty intro to Github can be found [here.](https://guides.github.com/activities/hello-world/). I have not used it, but this comes highly recommended - [python programming](https://developers.google.com/edu/python/Together), they should help you get up to speed with what is needed for this course.
 
 ## Time Management
 |Activity| Expected Time(hrs/wk) |
