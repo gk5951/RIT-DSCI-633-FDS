@@ -10,8 +10,8 @@
 
 ## Office Hours
 
-- Teaching Assistant, Addl Tariq's Office Hours: Tuesday, Thursday: 11:00 AM - 12:00 Noon EST.
-- Nidhi's Office Hours: By appointment
+- Teaching Assistant, Addl Tariq's Office Hours: Tuesday, Thursday: 11:00 AM - 12:00 Noon EST. Email: at1816@g.rit.edu. Or Slack
+- Nidhi's Office Hours: By appointment. Email: nidhi.rastogi@rit.edu. Or Slack
 
 ## Course Description
 This is a foundation course in data science, which emphasizes both concepts and techniques. The course provides an overview of data analysis tasks and the associated challenges, including data preprocessing, model building, validation, and evaluation. Major families of data analysis techniques covered include classification, clustering, association analysis, anomaly detection, and statistical testing. The course consists of a series of programming assignments that will involve implementing specific techniques on practical datasets from diverse application domains, reinforcing the concepts and techniques covered in lectures. The best way to learn an algorithm is to implement and apply it yourself. You will experience that in this course. This course is taught at Rochester Institute of Technology in Fall 2022. 
