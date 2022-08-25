@@ -29,7 +29,7 @@ Knowledge of **Python** and **Github** is required.  An excellent primer for pyt
 |Activity| Expected Time(hrs/wk) |
 |--|--|
 |Lectures  | 2.5 |
-|Assignments, Projects| 1-5 |
+|Homeworks, Projects| 1-5 |
 
 ## Syllabus and Policies
 The course uses **GitHub** for assignment submission, and **Slack** for discussions, and questions. I will post slides assignments and any recorded videos here.
