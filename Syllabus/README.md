@@ -9,7 +9,7 @@ Course taught in Fall'22.
 |-------|----------|--------------------------|----------|
 | 08/23 |Lecture 0, Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- |
 | 08/25 |Lecture 1, [Introduction to Data Science](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | <=70% Python Exercise | n/a |
-| 08/30 |Basics of Machine Learning, Classification: Naive Bayes| 15 min. speed test for python, Assignment 1 (check myCourses)| 09/06 7:59am |
+| 08/30 |Basics of Machine Learning, Classification: Naive Bayes| 15 min. speed test for python, Assignment 1 | 09/06 7:59am |
 | 09/01 | Classification: Decision Trees <!--(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx)-->| |  |
 | 09/06 | Classification: SVM<!--(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx) OR (https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture08/Lec08.pptx)--> | Assignment 2<!---[Assignment 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Assignments/DSCI_633_Assignment_02.ipynb)-->| 09/13 7:59 am|
 | 09/08 | Classification: Nearest Neighbors<!---(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) OR (https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture09/Lec09.pptx) OR (https://colab.research.google.com/drive/1TAIm2QUcZLS8kEm15dMJfA-XLlWq1RKJ?usp=sharing)--> | |  |
