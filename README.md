@@ -39,13 +39,17 @@ The course uses **GitHub** for assignment submission, and **Slack** for discussi
 - "Pattern Recognition and Machine Learning", by Christopher M. Bishop, [Link to e-Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 There is no need to buy the book, they're for reference only. The lecture slides, links should cover all the material you need to do well in the class. I am open to feedback if you need more detailed content or a different course presentation format.
-**Grading**: Evaluation will be based on the following distribution: 
+
+**Grading**: Evaluation will be based on the following distribution. Grades will follow RIT Grading Scale (Link TBD): 
 
 |Activity| % Distribution |
 |--|--|
-|Assignments| 60% |
-|Final project report and presentation| 35% |
-|Class Participation| 5% |
+|Homework| 40% |
+|Class Assessments (2)| 10% |
+|Mid-Term| 15% |
+|Final Exam| 15% |
+|Project| 20% |
+
 
 **Late work policy**:
 - Each student will have the option of turning in 2 late assignments, where late cannot be more than 48 hours from the end time of the original submission. 0 Credit will be given after that. This policy can be availed for any assignment (and only assignment, not for projects, assessments, mid-terms etc.)For example, Assignment 2 is due on 08/24 at 7:59am. StudentABC decides to use this policy and submits their assignment late. If the submission is made by 08/26 7:59am, they are not penalized and are graded as usual. If StudentABC ends up submitting it on 08/26 at 8am or after, they get 0 credit for this submission.
