@@ -3,7 +3,7 @@ Course taught in Fall'22.
 
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 ## Course Material
-| Date | Topic | Reading Material prior to class| Homework | Due Date|
+| Date | Topic | Reading Material| Homework | Due Date|
 |-------|----------|---------------|-----------|----------|
 | 08/23 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
 | 08/25 |[Introduction to Data Science](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | -- | <=70% Python Exercise | n/a |
