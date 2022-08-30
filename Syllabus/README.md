@@ -12,7 +12,7 @@ Course taught in Fall'22.
 |09/06|Classification: Regularized Linear Model, Logistic Regression|[AG] Chap 4 |HW 2||
 | 09/01 | Classification: Decision Trees | [AG] Chap 6 |  |  |
 | 09/06 | Classification: SVM<!--(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx) OR (https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture08/Lec08.pptx)--> | [AG] Chap 5 | HW 3<!---[Assignment 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Assignments/DSCI_633_Assignment_02.ipynb)-->|  09/13 7:59 am|
-| 09/08 | Classification: Nearest Neighbors<!---(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) OR (https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture09/Lec09.pptx) OR (https://colab.research.google.com/drive/1TAIm2QUcZLS8kEm15dMJfA-XLlWq1RKJ?usp=sharing)--> | -- |  |  |
+| 09/08 | Classification: Nearest Neighbors<!---(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) OR (https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture09/Lec09.pptx) OR (https://colab.research.google.com/drive/1TAIm2QUcZLS8kEm15dMJfA-XLlWq1RKJ?usp=sharing)--> | [AG] Chap 9 |  |  |
 | 09/13 | Classification: Ensemble Learning <!---[Training Models - 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture06/Lec06.pptx)-->| [AG] Chap 7 | HW 4 | 09/20 7:59 am |
 | 09/15 | <!--[Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing) Ensemble Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx), [In-class practice Exercise](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook),--> Class Assessment -1 |All lectures & HWs| | |
 | 09/20 | Project Topic, Data, Team Formation| |  | |
@@ -26,12 +26,12 @@ Course taught in Fall'22.
 | 10/13 |Mid-Term| Everything taught & practiced so far |  | |
 | 10/18 |Semi-, Self-Supervised Learning<!--](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture17/Lec17.pptx), [In-class practice Exercise](https://www.kaggle.com/altprof/basic-semi-supervised-learning-models)-->|-- |  | |
 | 10/20 | Reinforcement Learning<!--](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture19/Lec19.pptx), In-class practice Exercises-[1](https://www.kaggle.com/charel/learn-by-example-reinforcement-learning-with-gym),[2](https://www.kaggle.com/basu369victor/designing-game-ai-with-reinforcement-learning),[3](https://www.kaggle.com/yuricat/smart-geese-trained-by-reinforcement-learning),[4](https://www.kaggle.com/aithammadiabdellatif/lux-ai-reinforcement-learning)-->| -- | HW 7| 10/27 7:59am |
-|10/25 | Artificial Neural Networks <!--(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture10/Lec10.pptx), [In-class practice Exercise](https://colab.research.google.com/drive/1unDMJ2NbjrQHV-zV9S371JxqeMMcX6br?usp=sharing)-->|-- |  | |
-| 10/27 | Training DNNs- 1<!--[In-class practice Exercise](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)--> |-- |  | |
-| 11/01 | Training DNNs- 2 | -- | | |
-| 11/03 | Training with TensorFlow<!--https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx --> | -- | HW 8 | 11/17 7:59am |
+|10/25 | Artificial Neural Networks <!--(https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture10/Lec10.pptx), [In-class practice Exercise](https://colab.research.google.com/drive/1unDMJ2NbjrQHV-zV9S371JxqeMMcX6br?usp=sharing)-->|[AG] Chap 10 |  | |
+| 10/27 | Training DNNs- 1<!--[In-class practice Exercise](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)--> |[AG] Chap 11 |  | |
+| 11/01 | Training DNNs- 2 | [AG] Chap 11| | |
+| 11/03 | Training with TensorFlow<!--https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx --> | [AG] Chap 12,13 | HW 8 | 11/17 7:59am |
 | 11/08 | Class Assessment - 2| Taught after mid-term |  | |
-| 11/10 | Deep Computer Vision using CNNs| -- |  | | 
+| 11/10 | Deep Computer Vision using CNNs| [AG] Chap 14 |  | | 
 | 11/15 | Advance Topic - 1|-- |  | |
 | 11/17 | Advance Topic - 2|-- |  | |
 | 11/22 | Project Presentation| All Groups| |  |
