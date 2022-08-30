@@ -7,7 +7,7 @@ Course taught in Fall'22.
 |-------|----------|---------------|-----------|----------|
 | 08/23 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
 | 08/25 |[Introduction to Data Science](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | [GBC] Chap 2,3| <=70% Python Exercise | n/a |
-| 08/30 |[Basics of Machine Learning, Classification: Naive Bayes](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx) & 15 min. speed test for python | [AG] Chap 1,2 | HW 1 | 09/06 7:59am |
+| 08/30 |[Basics of Machine Learning, Classification: Naive Bayes](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx) & 15 min. speed test for python | [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | HW 1 | 09/06 7:59am |
 |09/01|Measuring Model Performance|[AG] Chap 2,3|||
 |09/06|Classification: Regularized Linear Model, Logistic Regression|[AG] Chap 4 |HW 2||
 | 09/01 | Classification: Decision Trees | [AG] Chap 6 |  |  |
