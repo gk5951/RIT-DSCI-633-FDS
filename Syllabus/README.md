@@ -2,6 +2,8 @@
 Course taught in Fall'22.
 
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
+
+*The Schedule is tentative and chan change as we make progress in the class. The Instructor will make all attempts to keep it updated,, but might fall behind sometimes.
 ## Course Material
 | Date | Topic | Reading Material| Homework | Due Date|
 |-------|----------|---------------|-----------|----------|
