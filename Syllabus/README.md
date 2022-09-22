@@ -10,7 +10,7 @@ Course taught in Fall'22.
 |-------|----------|---------------|-----------|----------|
 | 08/23 |Introduction & Python Assessment-No Credit | [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | -- | --|
 | 08/25 |[Introduction to Data Science](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | [GBC] Chap 2,3| <=70% Python Exercise | n/a |
-| 08/30 |[Basics of Machine Learning, Classification: Naive Bayes](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx) & 15 min. speed test for python | [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | HW1 1 | 09/06 7:59am |
+| 08/30 |[Basics of Machine Learning, Classification: Naive Bayes](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02.pptx) & 15 min. speed test for python | [AG] Chap 1,2, [NaiveBayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) | HW 1 | 09/06 7:59am |
 |09/01|[Measuring Model Performance](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx)|[AG] Chap 2,3|[Class](https://colab.research.google.com/drive/1DRDR0qvGjU4m3qyFNTxbMaxge3-RzpzQ#scrollTo=it3BBXAQKbG8)||
 |09/06|[Classification: Regularized Linear Model](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx)|[AG] Chap 4 |HW 2 |due 09/15 11:59 pm |
 | 09/08 | [Gradient Descent](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx),[Classification: Logistic Regression](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) | [AG] Chap 4 |  |  |
