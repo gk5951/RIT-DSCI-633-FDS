@@ -10,7 +10,7 @@
 
 ## Office Hours
 
-- Teaching Assistant, Addl Tariq's Office Hours: Tuesday, Thursday: 11:00 AM - 12:00 Noon EST. Zoom ID: (416 934 3819) Email: at1816@g.rit.edu. Or Slack
+- Teaching Assistant, Addl Tariq's Office Hours: Tuesday     11:00 am - 12:00 pm - In person (Data Science Room GCCIS), Wednesday  11:00 am - 12:00 pm - Zoom (Meeting ID: 416 934 3819). For any questions contact via Email: at1816@g.rit.edu. Or Slack
 - Nidhi's Office Hours: Right after class Tuesday/Thurday. And by appointment. Email: nidhi.rastogi@rit.edu. Or Slack
 
 ## Course Description
