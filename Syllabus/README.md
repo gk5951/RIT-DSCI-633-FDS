@@ -35,7 +35,7 @@ Course taught in Fall'22.
 | 11/10 | Training DNNs- 2 | [AG] Chap 11| | |
 | 11/15 | Training with TensorFlow<!--https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx --> | [AG] Chap 12,13 |   |  |
 | 11/17 | Deep Computer Vision using CNNs| [AG] Chap 14 |  | | 
-| 11/22 | Interview Preparation| | |  |
+| 11/22 | Interview & Job Application Preparation| | |  |
 | 11/24 | No Lecture (Thanksgiving Holiday)|  | | |
 | 11/29 | Project Presentation| All Groups| |  |
 | 12/01 | Final Exam, In Class| Everything from the course |  | |
