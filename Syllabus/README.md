@@ -33,7 +33,7 @@ Course taught in Fall'22.
 | 11/03 | [Training DNNs- 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture18/Lec18TrainDNN1.pptx)<!--[In-class practice Exercise](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)--> |[AG] Chap 11 |  | |
 | 11/08 | Class Assessment - 2| Taught after mid-term |  | |
 | 11/10 | [Training DNNs- 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture19/Lec19DNN2.pptx) | [AG] Chap 11| | |
-| 11/15 | Training with TensorFlow| [AG] Chap 12,13 |   |  |
+| 11/15 | [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture20/Lec20TF.pptx)| [AG] Chap 12,13 |   |  |
 | 11/17 | [Training CNNs](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21CNN)| [AG] Chap 14 |  | | 
 | 11/22 | Interview & Job Application Preparation| | |  |
 | 11/24 | No Lecture (Thanksgiving Holiday)|  | | |
