@@ -26,17 +26,16 @@ Course taught in Fall'22.
 | 10/11 | No Lecture (Fall Break- No Classes) | |  | |
 | 10/13 |Mid-Term| Everything taught & practiced so far |  | |
 | 10/18 | [Feature Engineering 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx), [Coding](https://colab.research.google.com/drive/1PumIZdP22c4iQN1EIeWgZcLU0uoJSDx9?usp=sharing)<!--](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture15/Lec15.pptx), [In-class Exercise](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)-->|-- |  |  |
-| 10/20 | Data Imbalance <!--](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/ProjectFiles) - [Data Imbalance](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture16/Lec16.pptx), [In-class practice Exercise](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/notebook) -->|-- |  | |
-| 10/20 | [Dimensionality Reduction](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture14/Lec14.pptx), [Coding](https://colab.research.google.com/drive/1utiJqoGNN_sRIg3i7vl1VHSZypIn9wz1?usp=sharing)|[AG] Chap 8|    |  |
+| 10/20 | [Dimensionality Reduction](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture14/Lec14PCA.pptx), [Coding](https://colab.research.google.com/drive/1utiJqoGNN_sRIg3i7vl1VHSZypIn9wz1?usp=sharing)|[AG] Chap 8|    |  |
 | 10/25 |[Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture15/Lec15.pptx), <!--[In-class practice Exercise](https://www.kaggle.com/altprof/basic-semi-supervised-learning-models)-->|-- |  | |
 | 10/27 | [Reinforcement Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture16/Lec16.pptx), Coding Exercises-[1](https://www.kaggle.com/charel/learn-by-example-reinforcement-learning-with-gym),[2](https://www.kaggle.com/basu369victor/designing-game-ai-with-reinforcement-learning),[3](https://www.kaggle.com/yuricat/smart-geese-trained-by-reinforcement-learning),[4](https://www.kaggle.com/aithammadiabdellatif/lux-ai-reinforcement-learning)| -- | |  |
 |11/01 | [Artificial Neural Networks](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture17/Lec17ANN.pptx), [Coding Exercise](https://colab.research.google.com/drive/1unDMJ2NbjrQHV-zV9S371JxqeMMcX6br?usp=sharing)|[AG] Chap 10 | HW 5 | |
 | 11/03 | [Training DNNs- 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture18/Lec18TrainDNN1.pptx)<!--[In-class practice Exercise](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)--> |[AG] Chap 11 |  | |
 | 11/08 | Class Assessment - 2| Taught after mid-term |  | |
-| 11/10 | Training DNNs- 2 | [AG] Chap 11| | |
-| 11/15 | Training with TensorFlow<!--https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx --> | [AG] Chap 12,13 |   |  |
-| 11/17 | Deep Computer Vision using CNNs| [AG] Chap 14 |  | | 
-| 11/22 | Interview Preparation| | |  |
+| 11/10 | [Training DNNs- 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture19/Lec19DNN2.pptx) | [AG] Chap 11| | |
+| 11/15 | [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture20/Lec20TF.pptx)| [AG] Chap 12,13 |   |  |
+| 11/17 | [Training CNNs](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21CNN)| [AG] Chap 14 |  | | 
+| 11/22 | Interview & Job Application Preparation| | |  |
 | 11/24 | No Lecture (Thanksgiving Holiday)|  | | |
 | 11/29 | Project Presentation| All Groups| |  |
 | 12/01 | Final Exam, In Class| Everything from the course |  | |
