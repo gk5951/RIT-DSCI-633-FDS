@@ -34,7 +34,7 @@ Course taught in Fall'22.
 | 11/08 | Class Assessment - 2| Taught after mid-term |  | |
 | 11/10 | [Training DNNs- 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture19/Lec19DNN2.pptx) | [AG] Chap 11| | |
 | 11/15 | [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture20/Lec20TF.pptx), [Coding](https://github.com/ageron/handson-ml3/blob/main/13_loading_and_preprocessing_data.ipynb)| [AG] Chap 12,13 |   |  |
-| 11/17 | [Training CNNs](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21CNN)| [AG] Chap 14 |  | | 
+| 11/17 | [Training CNNs](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21CNN), [Coding](https://colab.research.google.com/drive/14qTxrNiXzxEghCMQYVsk2ylXr4IdyvTS?usp=sharing)| [AG] Chap 14 |  | | 
 | 11/22 | Interview & Job Application Preparation| | |  |
 | 11/24 | No Lecture (Thanksgiving Holiday)|  | | |
 | 11/29 | Project Presentation| All Groups| |  |
