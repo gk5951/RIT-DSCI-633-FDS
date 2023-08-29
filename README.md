@@ -7,6 +7,7 @@
 ## Class Schedule
 - Course taught in Fall'23.
 - Every Tuesday and Thursday: 8:00 AM - 9:15 AM EST
+- In-Person, classes recorded.
 
 ## Office Hours
 
